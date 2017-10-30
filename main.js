@@ -31,5 +31,5 @@ if (number === 'b' || operator === "power" ){
 
 }else if (operator === 'square root'){
   var numberOne = prompt ('what is your number?');
-  alert (parseInt(numberOne) = Math.sqrt(numberOne));
+  alert (Math.sqrt(numberOne));
 }
