@@ -14,9 +14,9 @@ if (number === 'a') {
     alert (parseInt(numberOne) / parseInt(numberTwo));
   }else if (operator === "*"){
       alert (parseInt(numberOne) * parseInt(numberTwo));
-  }
-// } else if (number === 'b'){
-  // var  numbertwo = prompt()
+}
+
+  
 }
 
 if (number === 'b' || operator === "power" ){
